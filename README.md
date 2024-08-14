@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ### Execution
 
 ```
-python human_pose_estimation_video.py
+streamlit run posture.py
 ```
 
 # AI Courses by OpenCV
